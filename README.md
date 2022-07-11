@@ -1,2 +1,2 @@
 # ObjectivViteReactExample
-A Vite + React with Objectiv React SDK configured
+A Vite + React example with Objectiv React SDK configured
